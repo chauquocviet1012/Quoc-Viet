@@ -20,7 +20,7 @@ body
 .nav-horizontal
 {
     position: fixed;
-    width: 100%;
+    width: 1920px;
     height: 7%;
     background-color: white;
 }
